@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <title>My first website</title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+      <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Signika:wght@700&display=swap" rel="stylesheet">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head> 
+	<body>
+		<h1>Getaway</h1>
+		<p>G-E-T-A-W-A-Y</p>
+		<p>G-E-T-A-W-A-Y</p>
+		<p>Don’t have to fly across no seas tonight</p>
+		<p>You're packing all them things you know I like</p>
+		<p>Now we don’t need no money to get it right</p>
+		<p>Coz you know you’re my vacation every time (Every time)</p>
+		<p>You’re my getaway, getaway (You’re my getaway)</p>
+		<p>You’re my getaway (You’re my getaway)</p>
+		<p>You’re my getaway, getaway (You’re my getaway)</p>
+		<p>You’re my getaway</p>
+		<h3>[Refren]</h3>
+		<p>Take me to that place, that place far away only we know</p>
+		<p>You know that I love to dance, to dance all night, mi amigo</p>
+		<p>You know that you’re my G-E-T-A-W-A-Y</p>
+		<p>You know that you’re my G-E-T-A-W-A-Y</p>
+		<h3>[Zarefren]</h3>
+		<p>G-E-T-A-W-A-Y</p>
+		<p>G-E-T-A-W-A-Y</p>
+	</body>
+</html>
